@@ -1,0 +1,27 @@
+# Unreal generated folders
+[Bb]inaries/
+[Dd]erivedDataCache/
+[Ii]ntermediate/
+[Ss]aved/
+
+# Visual Studio
+.vs/
+.vscode/
+*.sln
+*.suo
+*.user
+*.userprefs
+*.VC.db
+*.VC.opendb
+*.opensdf
+*.sdf
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.log
+*~
